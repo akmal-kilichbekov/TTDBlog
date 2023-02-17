@@ -1,0 +1,23 @@
+
+{
+ "CompanyCode":"0007",
+ "PurchaseOrderType":"NB",
+ "Supplier":"AKBSUP",
+ "Language":"EN",
+ "PaymentTerms":"0003",
+ "NetPaymentDays":"30",
+ "PurchasingOrganization":"0007",
+ "PurchasingGroup":"007",
+ "DocumentCurrency":"USD",
+ "to_PurchaseOrderItem":
+ [
+  {
+    "PurchaseOrderItem":"00010",
+    "Material":"AKB_MATNR",
+    "ManufacturerMaterial":"AKB_MATNR",
+    "Plant":"0007",
+    "OrderQuantity":"4",
+    "NetPriceAmount":"12",
+   }
+  ]
+}
